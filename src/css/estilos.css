@@ -53,6 +53,7 @@ main .personagem .imagem {
 }
 .conteudo h2{
     text-shadow: 0 0 10px #DAC172 ;
+    width: 360px;
 
 }
 .conteudo p{
