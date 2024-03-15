@@ -52,12 +52,16 @@
         max-height: 180px;
     }
     .conteudo .descricao{
-        width: 350px;
-        /* max-height: 200px; */
+        width: 300px;
+        max-height: 200px;
+        font-size: 15px;
+        margin-top: 25px;
     }
 
     .conteudo .nome-personagem {
         font-size: 22px;
+        width: 200px;
+        height: 50px;
     }
 
     .botoes {
@@ -66,6 +70,6 @@
     }
 
     .botoes .botao img {
-        max-width: 50px;
+        max-width: 40px;
     }
 }
